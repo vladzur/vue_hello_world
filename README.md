@@ -1,2 +1,2 @@
-# vue_hello_world
+# Vue Hello World
 Simple Vue JS hello world example
