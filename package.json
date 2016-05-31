@@ -1,0 +1,21 @@
+{
+  "name": "hello_vue",
+  "version": "1.0.0",
+  "description": "Simple vue hello word example",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "vue": "^1.0.24",
+    "vue-resource": "^0.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladzur",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "vladzur.git"
+  }
+}
